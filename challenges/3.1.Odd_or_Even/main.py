@@ -1,10 +1,10 @@
-#Don't change the code below
+# Don't change the code below
 number = int(input("Which number do you want to check? "))
-#Don't change the code above
+# Don't change the code above
 
-#Write your code below this line
+# Write your code below this line
 
 if number % 2 == 0:
-  print(f"This is an even number.")
+    print("This is an even number.")
 else:
-  print("This is an odd number.")
+    print("This is an odd number.")
